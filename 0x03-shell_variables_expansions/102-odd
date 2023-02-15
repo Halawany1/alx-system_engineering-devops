@@ -1,0 +1,2 @@
+#!/bin/ba
+paste - - | cut -d$'\t' -f1
